@@ -16,3 +16,6 @@
 //   console.log(quickCheck(["squash", "onions", "shallots"], "mushrooms"));
 
 
+let ul = `<li>Programming<li>`; 
+ul +=  `<li>Hero<li>`; 
+console.log(ul);

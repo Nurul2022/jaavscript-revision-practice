@@ -1,3 +1,4 @@
+// ***********Template String **********************
 var name = "hero alom";
 var lname = "Uganda";
 //আমরা  যদি  সাধারণ  ভাবে  করি  তাহলে এভাবে  করতে   পারি
@@ -6,6 +7,7 @@ console.log("Hello " + name + " Welcome to " + lname);
 //এবং  খুব  সহজে  টেমপ্লেট স্ট্রিং  বাববার  করে  যে  কোনো  জায়গায়  ডাইনামিক  ভ্যালু  ব্যবহার  করতে   পারি
 console.log(`Hello, ${name}!Welcome to ${lname}`);
 
+// ***********Spread Operator ************
 // spread operators can be used for arrays or objects
 
 // cloning to prevent mutation.
